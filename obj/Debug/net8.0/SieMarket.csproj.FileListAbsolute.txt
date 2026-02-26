@@ -1,0 +1,15 @@
+C:\Users\dalia\SieMarket\bin\Debug\net8.0\SieMarket.exe
+C:\Users\dalia\SieMarket\bin\Debug\net8.0\SieMarket.deps.json
+C:\Users\dalia\SieMarket\bin\Debug\net8.0\SieMarket.runtimeconfig.json
+C:\Users\dalia\SieMarket\bin\Debug\net8.0\SieMarket.dll
+C:\Users\dalia\SieMarket\bin\Debug\net8.0\SieMarket.pdb
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.AssemblyInfoInputs.cache
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.AssemblyInfo.cs
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.csproj.CoreCompileInputs.cache
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.sourcelink.json
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.dll
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\refint\SieMarket.dll
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.pdb
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\SieMarket.genruntimeconfig.cache
+C:\Users\dalia\SieMarket\obj\Debug\net8.0\ref\SieMarket.dll
